@@ -6,7 +6,7 @@ const Programs = () => {
   return (
     <div className='programs'>
         <div className="program">
-            <img src="public/1.JPG" alt="" />
+            <img src="/1.JPG" alt="" />
             <div className="caption">
                 <img src="public/i.webp" alt="" />
                 <p>Graduation Degree</p>
@@ -14,7 +14,7 @@ const Programs = () => {
         </div>
 
         <div className="program">
-            <img src="public/3.JPG" alt="" />
+            <img src="/3.JPG" alt="" />
             <div className="caption">
                 <img src="public/i.webp" alt="" />
                 <p>Masters Degree</p>
@@ -23,15 +23,13 @@ const Programs = () => {
         </div>
 
         <div className="program">
-            <img src="public/4.JPEG" alt="" />
+            <img src="/4.JPEG" alt="" />
             <div className="caption">
-                <img src="public/i.WEBP" alt="" />
+                <img src="/i.WEBP" alt="" />
                 <p>Post Graduation</p>
             </div>
 
         </div>
-
-
     </div>
   )
 }
