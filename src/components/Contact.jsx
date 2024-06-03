@@ -33,7 +33,7 @@ const Contact = () => {
   return (
     <div className='contact'>
         <div className="contact-col">
-            <h3>Send us a message <img src="/mail.svg" alt="" /></h3>
+            <h3>Send us a message <img src="./mail.svg" alt="" /></h3>
             <p>Feel free to reach out through contact form or find our contact
                 information below. Your feedback, questions, and suggestions are 
                 important to us as we strive to provide exceptional service to our 
@@ -41,9 +41,9 @@ const Contact = () => {
             </p>
 
             <ul>
-                <li><img src="/mail.png" alt="" />university@city.dev</li>
-                <li><img src="/phone.webp" alt="" />+1 123-456-7890</li>
-                <li><img src="/location.png" alt="" />77 Massachusetts Ave, Cambridge<br/> MA 02139, United 
+                <li><img src="./mail.png" alt="" />university@city.dev</li>
+                <li><img src="./phone.webp" alt="" />+1 123-456-7890</li>
+                <li><img src="./location.png" alt="" />77 Massachusetts Ave, Cambridge<br/> MA 02139, United 
                 States</li>
             </ul>
         </div>
@@ -59,7 +59,7 @@ const Contact = () => {
                 <label>Write your message here</label>
                 <textarea name="message" rows="6" placeholder='Enter your message' required></textarea>
 
-                <button type='submit' className='btn dark-btn'>Submit now <img src="/next1.svg" alt="" /></button>
+                <button type='submit' className='btn dark-btn'>Submit now <img src="./next1.svg" alt="" /></button>
 
             </form>
             <span>{result}</span>

@@ -6,13 +6,12 @@ const Campus = () => {
   return (
     <div className='campus'>
         <div className="gallery">
-            <img src="/g-1.JPG" alt="" />
-            <img src="/g-2.JPG" alt="" />
-            <img src="/g-3.JPG" alt="" />
-            <img src="/g-4.JPG" alt="" />
+            <img src="./g-1.jpg" alt="" />
+            <img src="./g-2.jpg" alt="" />
+            <img src="./g-3.jpg" alt="" />
+            <img src="./g-4.jpg" alt="" />
         </div>
-        <button className='btn dark-btn'>See more here <img src="/next.svg" alt="" /></button>
-
+        <button className='btn dark-btn'>See more here <img src="./next.svg" alt="" /></button>
     </div>
   )
 }
