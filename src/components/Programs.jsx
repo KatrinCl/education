@@ -6,17 +6,17 @@ const Programs = () => {
   return (
     <div className='programs'>
         <div className="program">
-            <img src="/1.JPG" alt="" />
+            <img src="./1.jpg" alt="" />
             <div className="caption">
-                <img src="public/i.webp" alt="" />
+                <img src="./i.webp" alt="" />
                 <p>Graduation Degree</p>
             </div>
         </div>
 
         <div className="program">
-            <img src="/3.JPG" alt="" />
+            <img src="/3.jpg" alt="" />
             <div className="caption">
-                <img src="public/i.webp" alt="" />
+                <img src="/i.webp" alt="" />
                 <p>Masters Degree</p>
             </div>
 
