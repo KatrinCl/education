@@ -84,5 +84,12 @@ nav ul li {
         margin: auto;
         visibility: visible;
     }
+}
 
+@media (max-width: 650px) {
+    .label{
+        position: absolute;
+        left: 200px;
+        top: 10px;
+    }    
 }
