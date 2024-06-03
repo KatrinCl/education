@@ -31,9 +31,8 @@ const Navbar = () => {
             <li><Link to='contact' smooth={true} offset={-260} duration={500} className='btn'>Contact us</Link></li>
         </ul>
 
-        <img src="/menu.svg" alt="" className='menu-icon' onClick={toggleMenu} />
+        <img src="./menu.svg" alt="" className='menu-icon' onClick={toggleMenu} />
     </nav>
-
   )
 }
 
