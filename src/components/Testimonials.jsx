@@ -32,7 +32,7 @@ const Testimonials = () => {
                 <li>
                     <div className="slide">
                         <div className="user-info">
-                            <img src="/u-1.jpg" alt="" />
+                            <img src="public/u-1.jpg" alt="" />
                             <div>
                                 <h3>William Jackson</h3>
                                 <span>Edusity, USA</span>
@@ -50,7 +50,7 @@ const Testimonials = () => {
                 <li>
                     <div className="slide">
                         <div className="user-info">
-                            <img src="/u-2.jpeg" alt="" />
+                            <img src="public/u-2.jpeg" alt="" />
                             <div>
                                 <h3>William Jackson</h3>
                                 <span>Edusity, USA</span>
@@ -68,7 +68,7 @@ const Testimonials = () => {
                 <li>
                     <div className="slide">
                         <div className="user-info">
-                            <img src="/u-3.jpg" alt="" />
+                            <img src="public/u-3.jpg" alt="" />
                             <div>
                                 <h3>William Jackson</h3>
                                 <span>Edusity, USA</span>
@@ -86,7 +86,7 @@ const Testimonials = () => {
                 <li>
                     <div className="slide">
                         <div className="user-info">
-                            <img src="/u-4.jpeg" alt="" />
+                            <img src="public/u-4.jpeg" alt="" />
                             <div>
                                 <h3>William Jackson</h3>
                                 <span>Edusity, USA</span>

@@ -1,6 +1,4 @@
 import './../../styles/title.css'
-
-
 import React from 'react'
 
 const Title = ({subTitle, title}) => {
