@@ -32,7 +32,7 @@ const Testimonials = () => {
                 <li>
                     <div className="slide">
                         <div className="user-info">
-                            <img src="public/u-1.jpg" alt="" />
+                            <img src="public/u-1.JPG" alt="" />
                             <div>
                                 <h3>William Jackson</h3>
                                 <span>Edusity, USA</span>
@@ -50,7 +50,7 @@ const Testimonials = () => {
                 <li>
                     <div className="slide">
                         <div className="user-info">
-                            <img src="public/u-2.jpeg" alt="" />
+                            <img src="public/u-2.JPEG" alt="" />
                             <div>
                                 <h3>William Jackson</h3>
                                 <span>Edusity, USA</span>
@@ -68,7 +68,7 @@ const Testimonials = () => {
                 <li>
                     <div className="slide">
                         <div className="user-info">
-                            <img src="public/u-3.jpg" alt="" />
+                            <img src="public/u-3.JPG" alt="" />
                             <div>
                                 <h3>William Jackson</h3>
                                 <span>Edusity, USA</span>
@@ -82,11 +82,11 @@ const Testimonials = () => {
                         </p>
                     </div>
                 </li>
-
+                
                 <li>
                     <div className="slide">
                         <div className="user-info">
-                            <img src="public/u-4.jpeg" alt="" />
+                            <img src="public/u-4.JPEG" alt="" />
                             <div>
                                 <h3>William Jackson</h3>
                                 <span>Edusity, USA</span>
@@ -100,10 +100,8 @@ const Testimonials = () => {
                         </p>
                     </div>
                 </li>
-
             </ul>
         </div>
-
     </div>
   )
 }
